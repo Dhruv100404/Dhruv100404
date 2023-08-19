@@ -65,16 +65,16 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thakkar-dhruv-2b0376219/" target="blank">
+  <a href="https://www.linkedin.com/in/thakkar-dhruv-2b0376219/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-  <a href="https://twitter.com/dhruvthakkar104" target="blank">
+  <a href="https://twitter.com/dhruvthakkar104" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>                                                                                                         
-	<a href="https://www.codechef.com/users/dhruv_thakkar" target="blank">
+	<a href="https://www.codechef.com/users/dhruv_thakkar" target="_blank">
 		<img src="https://img.shields.io/badge/-Codechef-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black" />
 	</a>
-	<a href="https://www.instagram.com/dhruv_100404/" target="blank">
+	<a href="https://www.instagram.com/dhruv_100404/" target="_blank">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
 	
