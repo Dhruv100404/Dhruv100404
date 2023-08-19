@@ -5,9 +5,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 <br/>
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently exploring new technologies,framewroks and tools in the field of Data Science and Cybersecurity
 <br>
-- ⚡ Fun fact: I want everything
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
